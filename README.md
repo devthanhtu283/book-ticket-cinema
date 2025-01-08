@@ -93,3 +93,5 @@ Cơ sở dữ liệu: SQL Server
 Thanh toán: VNPay, PayPal  
 
 Dịch vụ SMS/Email: Tích hợp gửi tin nhắn thông báo.  
+
+Chat: Websocket chat realtime
